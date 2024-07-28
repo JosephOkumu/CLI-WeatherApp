@@ -8,7 +8,7 @@ This part contains instructions on how to make use of the program.
 
 ## Features
 
-- Each alphabetical character is printed as many times as its alphabetical index.
+- Lists forecast for every hour of that particular day.
 
 ### Usage
 
